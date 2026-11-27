@@ -20,7 +20,7 @@ The main dependencies are `numpy`, `scipy`, `scikit-learn`, `matplotlib`, `pywav
 
 ```
 -- Environment and Report/                                    // help folder (软件包.png, project documents)
--- raw_data.npy                               // raw data used by the project
+-- raw_data.rar                               // raw data used by the project,Please extract before use.
 -- cut_raw_data.py                            // extract the part of the raw data that is needed
 -- add_index_to_clustering_data.py            // add an index column to the raw data, before processing
 -- denoise_and_remove_baseline_drift.py       // process the raw data (wavelet denoising + baseline drift removal)
